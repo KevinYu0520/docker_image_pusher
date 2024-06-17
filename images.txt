@@ -1,3 +1,9 @@
 jc21/mariadb-aria
 portainer/portainer
 jc21/nginx-proxy-manager
+xiaoyaliu/alist
+ddsderek/xiaoya-emd
+haroldli/xiaoya-tvbox
+amilys/embyserver
+library/alpine
+jeessy/ddns-go
